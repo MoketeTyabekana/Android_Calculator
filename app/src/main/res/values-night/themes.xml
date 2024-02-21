@@ -3,5 +3,6 @@
     <style name="Base.Theme.AndroidCalculator" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
          <item name="colorPrimary">@color/material_dynamic_primary40</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/material_dynamic_primary40</item>
     </style>
 </resources>

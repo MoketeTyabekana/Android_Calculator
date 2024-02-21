@@ -3,6 +3,7 @@
     <style name="Base.Theme.AndroidCalculator" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
          <item name="colorPrimary">@color/material_dynamic_primary40</item>
+
     </style>
 
     <style name="Theme.AndroidCalculator" parent="Base.Theme.AndroidCalculator" />
